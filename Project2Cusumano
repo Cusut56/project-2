@@ -1,5 +1,7 @@
 float tmp;
-
+float tmp;
+float left,right,top,bottom;
+float middle;
 float cueX,cueY,cueDX,cueDY;
 float orangeX,orangeY,orangeDX,orangeDY;
 float purpleX,purpleY,purpleDX,purpleDY;
@@ -76,7 +78,7 @@ speed=speed*-1;
     
 
   stroke(0,127,0);
-  line(middle,top+10,middle,bottom-10);
+  line(middle,top+20,middle,bottom+10);
   }
   
   
