@@ -1,4 +1,4 @@
-loat tmp;
+float tmp;
 float left,right,top,bottom;
 float middle;
 float cueX,cueY,cueDX,cueDY;
